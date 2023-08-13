@@ -34,7 +34,7 @@ aim left/right, aim up/down
 
 # Dependencies
 
-Windows, Python, an FPS game, along with the following Python packages:
+Windows, Python, an FPS game, along with the following Python packages (installed using PowerShell):
 
 ```
 python -m pip install torch torchvision win32 mouse keyboard
