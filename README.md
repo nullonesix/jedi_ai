@@ -20,7 +20,7 @@ forward, strafe left, backward, strafe right, duel challenge, grapple, release g
 switch saber style, alternate attack, attack, crouch, jump
 ```
 
-along with a regressino head for each mouse direction:
+along with a regression head for each mouse direction:
 
 ```
 mouse_deltaX, mouse_deltaY
