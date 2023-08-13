@@ -1,6 +1,8 @@
 # Jedi AI
 A neural network that plays Jedi Knight: Jedi Academy but could easily be applied to other FPS games.
 
+Demo video: https://www.youtube.com/watch?v=W1T5OZvs53I
+
 The AI works by pure imitation learning. Specifically it learns the stimulus -> response association
 where the stimulus = game images and the response = game inputs.
 
